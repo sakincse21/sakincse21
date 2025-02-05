@@ -1,7 +1,7 @@
 ### <div align="center">I'm Saleheen, A passionate front-end developer 👨‍💻 from Bangladesh 🚀</div>  
   
 
-- 🔭 I’m currently working on [Blood Lagbe](https://github.com/sakincse21/blood-lagbe) 
+- 🔭 I’m currently working on [Blood Lagbe](https://github.com/sakincse21/blood-lagbe-nextjs) 
   
 
 - 🌱 I’m currently learning NextJS 
