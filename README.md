@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Blood Lagbe](https://github.com/sakincse21/blood-lagbe-nextjs) 
   
 
-- 🌱 I’m currently learning NextJS 
+- 🌱 I’m currently focusing on Backend Development 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies 
