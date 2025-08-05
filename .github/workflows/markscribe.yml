@@ -1,20 +1,22 @@
-name: Update README.md with Wakatime Stats
+# .github/workflows/markscribe.yml
+name: Update README with Wakatime Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  # updates every hour
+    - cron:  '0 * * * *'    # every hour at minute 0
   workflow_dispatch:
 
 jobs:
-  build:
+  markscribe:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Run Markscribe
-      - uses: muesli/markscribe-action@master
+        uses: muesli/markscribe-action@v0.10.0
         with:
-          template: README.md
+          input:  README.md
+          output: README.md
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
