@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run Markscribe
-        uses: markscribe/markscribe-action@v1
+        uses: markscribe/markscribe-action@v2
         with:
           template: README.md
         env:
