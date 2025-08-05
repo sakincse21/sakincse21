@@ -1,4 +1,4 @@
-name: Update README with Wakatime Stats
+name: Update README.md with Wakatime Stats
 
 on:
   schedule:
@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run Markscribe
-      - uses: dguo/markscribe-action@main
+      - uses: muesli/markscribe-action@master
         with:
           template: README.md
         env:
