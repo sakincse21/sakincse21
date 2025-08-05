@@ -40,9 +40,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakincse21&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakincse21&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <br/>
 <br />
+
 Stats from Local Machine
-<pre> {{ wakatimeDoubleCategoryBar "📚 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }} </pre>
-<br />
+<pre>
+{{{ wakatimeDualCategoryBar "📚 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}}
+</pre>
+
 <br />
 
 
