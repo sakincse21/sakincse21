@@ -39,14 +39,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=sakincse21&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakincse21&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakincse21&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <br/>
-<br />
-
-Stats from Local Machine <br />
-<pre> {{ wakatimeDoubleCategoryBar "📚 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }} </pre>
-
-<br />
-
-
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=4751&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
